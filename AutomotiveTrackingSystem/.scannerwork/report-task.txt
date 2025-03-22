@@ -2,5 +2,5 @@ projectKey=AutomotiveTrackingSystem_Cpp
 serverUrl=http://localhost:9000
 serverVersion=25.3.0.104237
 dashboardUrl=http://localhost:9000/dashboard?id=AutomotiveTrackingSystem_Cpp
-ceTaskId=75c25b87-f413-4c1d-951b-c6dc3514dca7
-ceTaskUrl=http://localhost:9000/api/ce/task?id=75c25b87-f413-4c1d-951b-c6dc3514dca7
+ceTaskId=cbcd304c-9967-47fe-90fe-e11a25a75132
+ceTaskUrl=http://localhost:9000/api/ce/task?id=cbcd304c-9967-47fe-90fe-e11a25a75132
